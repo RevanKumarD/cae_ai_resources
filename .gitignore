@@ -37,4 +37,5 @@ ehthumbs.db
 Thumbs.db 
 
 .env
-.cursor/
+.cursorrules
+.cursorignore

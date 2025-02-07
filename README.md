@@ -7,7 +7,6 @@ This repository provides a **comprehensive list of resources** for integrating *
 ## 📂 Repository Structure
 
 ```
-│── README.md                     # Overview of AI in CAE
 │── 01_ML_DeepLearning_CAE.md      # Machine Learning & Deep Learning Fundamentals
 │── 02_Geometric_DeepLearning.md   # Geometric Deep Learning in CAE
 │── 03_PINNs_CAE.md                # Physics-Informed Neural Networks (PINNs)
@@ -16,10 +15,7 @@ This repository provides a **comprehensive list of resources** for integrating *
 │── 06_SSL_Simulation_Data.md      # Self-Supervised Learning for Simulation Data
 │── 07_Python_Tools_CAE.md         # Python Libraries & Tools for CAE
 │── 08_Math_Physics_Foundations.md # Mathematical & Physics Foundations
-│── 09_Best_Practices_CaseStudies.md # Best Practices and Case Studies
-│── CONTRIBUTING.md                # Guide for contributing more resources
-│── LICENSE                        # Open-source license
-└── .gitignore                     # Ignore unnecessary files
+│── 09_Best_Practices_CaseStudies.md # Best Practices and Case Studies                   
 ```
 
 ---
