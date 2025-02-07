@@ -1,9 +1,0 @@
----
-description: a structured Git repository with these AI in CAE resources, including structured markdown files for each topic, categorized links, and best practices. This will be a well-organized knowledge hub that you (and others) can refer to.
-globs: 
----
-
-# Your rule content
-
-- You can @ files here
-- You can use markdown but dont have to
