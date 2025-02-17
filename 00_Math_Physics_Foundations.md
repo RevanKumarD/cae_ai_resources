@@ -13,7 +13,7 @@ This section outlines essential mathematical and physical concepts crucial for *
     - [MIT OpenCourseWare - 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
     - *Gilbert Strang’s Lectures:*  
       Watch the acclaimed lecture series by Dr. Gilbert Strang.  
-      [**Gilbert Strang Lecture Playlist (Placeholder)**](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)  
+      [**Gilbert Strang Lecture Playlist**](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)  
       My personal all time favourite.
     - [3Blue1Brown – Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
     
