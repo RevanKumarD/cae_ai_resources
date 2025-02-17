@@ -34,9 +34,6 @@ This document outlines essential mathematical and physical concepts crucial for 
 * **Solid Mechanics/Mechanics of Materials**: For structural analysis and Finite Element Method (FEM).
   * **[MIT OpenCourseWare - 2.001 Mechanics and Materials I](https://ocw.mit.edu/courses/mechanical-engineering/2-001-mechanics-and-materials-i-fall-2006/)**.
   * **[Mechanics of Materials - Beer & Johnston](https://www.mheducation.com/)**.
-* **Electromagnetism**: If relevant to the CAE domain.
-  * **[MIT OpenCourseWare - 8.02 Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-fall-2006/)**.
-  * **[Introduction to Electrodynamics - David J. Griffiths](https://www.cambridge.org/)**.
 
 These resources will help build a strong foundation in the mathematical and physical principles underlying CAE simulations.
 
