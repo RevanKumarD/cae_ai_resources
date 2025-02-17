@@ -22,6 +22,16 @@ This repository provides a **comprehensive list of resources** for integrating *
 
 ## 📌 AI in CAE Topics
 
+
+### **0. [Math & Physics] Foundational Concepts in CAE**
+- [MIT OpenCourseware - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [MIT OpenCourseware - Fluid Mechanics](https://ocw.mit.edu/courses/mechanical-engineering/2-25-advanced-fluid-mechanics-fall-2013/)
+- [Numerical Methods for Engineers - Chapra & Canale](https://www.pearson.com/)
+
+➡️ *For a detailed breakdown, refer to [00_Math_Physics_Foundations.md](00_Math_Physics_Foundations.md)*
+
+---
+
 ### **1. Machine Learning and Deep Learning Fundamentals for CAE**
 - [AI For Everyone - Andrew Ng (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
 - [Machine Learning - Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
@@ -85,15 +95,6 @@ This repository provides a **comprehensive list of resources** for integrating *
 - [OpenFOAM](https://www.openfoam.com/)
 
 ➡️ *For a detailed breakdown, refer to [07_Python_Tools_CAE.md](07_Python_Tools_CAE.md)*
-
----
-
-### **8. [Math & Physics] Foundational Concepts in CAE**
-- [MIT OpenCourseware - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-- [MIT OpenCourseware - Fluid Mechanics](https://ocw.mit.edu/courses/mechanical-engineering/2-25-advanced-fluid-mechanics-fall-2013/)
-- [Numerical Methods for Engineers - Chapra & Canale](https://www.pearson.com/)
-
-➡️ *For a detailed breakdown, refer to [08_Math_Physics_Foundations.md](08_Math_Physics_Foundations.md)*
 
 ---
 
