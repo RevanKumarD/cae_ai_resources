@@ -23,7 +23,7 @@ This section outlines essential mathematical and physical concepts crucial for *
   For those interested in extending linear algebra to higher dimensions:
   - *Dan Fleisch on Tensors:*  
     - [What's a Tensor?](https://www.youtube.com/watch?v=f5liqUk0ZTw)  
-    - [Tensors Explained](https://www.youtube.com/watch?v=CliW7kSxxWU)  
+  - [Tensors Explained](https://www.youtube.com/watch?v=CliW7kSxxWU)  
 - **Personal Insight:**  
   Dr. Gilbert Strang’s lectures are renowned for breaking down complex matrix concepts into accessible ideas. Coupled with the visual explanations from 3Blue1Brown, these resources provide both rigorous theory and intuitive understanding.
 
