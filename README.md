@@ -7,6 +7,7 @@ This repository provides a **comprehensive list of resources** for integrating *
 ## 📂 Repository Structure
 
 ```
+│── 00_Math_Physics_Foundations.md # Mathematical & Physics Foundations
 │── 01_ML_DeepLearning_CAE.md      # Machine Learning & Deep Learning Fundamentals
 │── 02_Geometric_DeepLearning.md   # Geometric Deep Learning in CAE
 │── 03_PINNs_CAE.md                # Physics-Informed Neural Networks (PINNs)
@@ -14,8 +15,7 @@ This repository provides a **comprehensive list of resources** for integrating *
 │── 05_RL_CAE.md                   # Reinforcement Learning for CAE Optimization
 │── 06_SSL_Simulation_Data.md      # Self-Supervised Learning for Simulation Data
 │── 07_Python_Tools_CAE.md         # Python Libraries & Tools for CAE
-│── 08_Math_Physics_Foundations.md # Mathematical & Physics Foundations
-│── 09_Best_Practices_CaseStudies.md # Best Practices and Case Studies                   
+│── 08_Best_Practices_CaseStudies.md # Best Practices and Case Studies                   
 ```
 
 ---
@@ -23,12 +23,16 @@ This repository provides a **comprehensive list of resources** for integrating *
 ## 📌 AI in CAE Topics
 
 
-### **0. [Math & Physics] Foundational Concepts in CAE**
-- [MIT OpenCourseware - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-- [MIT OpenCourseware - Fluid Mechanics](https://ocw.mit.edu/courses/mechanical-engineering/2-25-advanced-fluid-mechanics-fall-2013/)
-- [Numerical Methods for Engineers - Chapra & Canale](https://www.pearson.com/)
+### **0. [Math & Physics] Foundational Concepts in CAE - Personal Recommendations**
+- [Gilbert Strang’s Linear Algebra Lectures](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) – My personal all-time favorite for mastering matrices and transformations.
+- [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) – Fantastic visual intuition for linear algebra concepts.
+- [3Blue1Brown - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) – A must-watch for an intuitive grasp of calculus.
+- [Steve Brunton’s Probability & Statistics](https://youtu.be/sQqniayndb4?si=WXaE3EaK8pcONvSW) – Great for understanding probability in an applied manner.
+- [Dan Fleisch - What’s a Tensor?](https://www.youtube.com/watch?v=f5liqUk0ZTw) – The best quick introduction to tensors.
+- [Tensors Explained](https://www.youtube.com/watch?v=CliW7kSxxWU) – A deeper dive into tensor concepts.
 
 ➡️ *For a detailed breakdown, refer to [00_Math_Physics_Foundations.md](00_Math_Physics_Foundations.md)*
+
 
 ---
 
