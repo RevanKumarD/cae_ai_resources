@@ -11,7 +11,8 @@ This section provides a detailed overview of Physics-Informed Neural Networks (P
 - [PINNs Tutorial by Raissi, Perdikaris, Karniadakis](https://maziarraissi.github.io/PINNs/)  
   *An excellent starting point with code examples (note: uses TensorFlow 1.x; consider updating to TensorFlow 2.x/PyTorch).*
 - [Introduction to PINNs by The Engineered Mind](https://www.engineered-mind.com/engineering/physics-informed-neural-networks-pinns/)  
-- [Scientific Machine Learning through the Lens of PINNs (Class Central)](https://www.classcentral.com/search?q=Physics+Informed+Neural+Networks)  
+- [Scientific Machine Learning through the Lens of PINNs (Class Central)](https://www.classcentral.com/search?q=Physics+Informed+Neural+Networks)
+- [ETH Zürich DLSC: Physics-Informed Neural Networks](https://camlab.ethz.ch/teaching/deep-learning-in-scientific-computing-2023.html)
 
 
 ### Libraries & Tools
