@@ -42,7 +42,14 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
   Practical experience with OpenAI Gym & Stable Baselines is invaluable for applying RL in real-world scenarios.
 - **For a Deep Dive:**  
   I refer to Sutton & Barto's book for advanced topics in reinforcement learning.
+  
+---
+
+## 📌 Additional Learning Resources & Contributions
+
+- **Community Contributions:**  
+  You are encouraged to contribute additional resources, improvements, and feedback. Check out the initial repository at [cae_ai_resources](https://github.com/RevanKumarD/cae_ai_resources) and submit a pull request with your suggestions.
 
 ---
 
-*Contribute additional resources by submitting a pull request!*
+*Happy learning and contributing!*
