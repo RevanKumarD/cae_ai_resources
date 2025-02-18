@@ -16,18 +16,17 @@ This document provides resources on **Python Programming Tools and Libraries for
 ## 📌 CAE-Specific Libraries & Tools
 
 * **pyMOR (Python for Model Order Reduction)**: For reduced order modelling and surrogate modelling in simulations.
-* **FEniCS/Firedrake**: Finite Element Method solvers that can be integrated with ML.
 * **OpenFOAM**: Open-source CFD solver; Python can be used for pre/post-processing and control.
-* **Abaqus Scripting (Python API)**: Python API for Abaqus CAE (commercial software).
+* **Abaqus Scripting (Python API)**: Python API for Abaqus CAE (commercial software). [Tutorials](https://www.youtube.com/playlist?list=PL8JBtohft2fuXL6zj1ZETOTBtM8ydfMd6)
 * **ANSYS PyAnsys Libraries**: Python libraries for interacting with ANSYS products (commercial software).
+* **ANSA (Beta CAE)**: Widely used preprocessor in automotive and aerospace industries. [Scripting Tutorials](https://www.youtube.com/@Beta-caeGr/search?query=Scripting)
 * **Gmsh (Python API)**: Mesh generation tool with Python API.
 * **Meshio**: I/O for various mesh formats in Python.
 * **VTK (Visualization Toolkit, Python bindings)**: For visualisation of simulation results.
+* **PyVista**: 3D plotting & mesh analysis wrapper for VTK library
 * **Paraview (Python scripting)**: Powerful visualisation tool with Python scripting capabilities.
 * **pyNastran**: Interface to Nastran file formats.
-* **pythonocc**: 3D CAD/CAE/PLM development framework for Python.
-* **CadQuery**: Python library for CAD modelling.
-* **Anvil**: Open-source tool integrating FreeCAD for CAD modelling and OpenFOAM for CFD analysis, along with AI-based optimisation methods, facilitating CAE integration.
+* **Lasso**: Python library for dyna files, femzi, diffcrash and dimred functionalities.
 
 ## 📌 Geometric Deep Learning Libraries
 
@@ -41,18 +40,18 @@ This document provides resources on **Python Programming Tools and Libraries for
 
 ## 📌 Best Practices
 
-* **Modular code design**: Break down complex CAE+AI workflows into reusable Python modules.
-* Use virtual environments (e.g., `venv`, `conda`) to manage dependencies and project isolation.
-* Document your code using docstrings, comments, and READMEs to explain Python CAE integrations.
-* Use version control (Git) to track changes to Python scripts and CAE workflows.
-* Write unit tests to ensure the correctness of Python CAE code.
-* Optimise performance by profiling Python code for speed when working with large CAE datasets or computationally intensive tasks. Consider libraries like Numba or Cython if needed.
-
-## 📌 Tutorials
-
-* **"Integrating Machine Learning with CAE Workflows"** on GitHub.
-* **"Python for CAE"** tutorial series on YouTube.
+- **Modular Code Design:**  
+  Break down complex CAE+AI workflows into reusable Python modules.
+  
+- **Environment Management:**  
+  Use virtual environments (e.g., `venv` or `conda`) to manage dependencies and ensure project isolation.
+  
+- **Code Documentation:**  
+  Document your code with clear docstrings, comments, and README files to explain the integration of Python in CAE.
+  
+- **Version Control:**  
+  Use Git or other version control systems to track changes and collaborate on Python CAE projects.
 
 ---
 
-📌 *Contribute additional resources by submitting a pull request!*
+*Contribute additional resources by submitting a pull request!*
