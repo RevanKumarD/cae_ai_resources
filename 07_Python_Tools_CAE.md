@@ -26,7 +26,7 @@ This document provides resources on **Python Programming Tools and Libraries for
 * **PyVista**: 3D plotting & mesh analysis wrapper for VTK library
 * **Paraview (Python scripting)**: Powerful visualisation tool with Python scripting capabilities.
 * **pyNastran**: Interface to Nastran file formats.
-* **Lasso**: Python library for dyna files, femzi, diffcrash and dimred functionalities.
+* **Lasso**: Python library for dyna files, femzip, diffcrash and dimensionality reduction functionalities.
 
 ## 📌 Geometric Deep Learning Libraries
 
