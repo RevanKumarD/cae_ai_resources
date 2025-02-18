@@ -23,9 +23,12 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
 
 ### Research Papers
 
+   -----
+
 
 ### RL for CAE Optimization
 
+  -----
 
 ### Example Applications
 
