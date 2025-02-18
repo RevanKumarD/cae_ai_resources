@@ -10,7 +10,6 @@ This document provides insights into **best practices and case studies** for app
 * Start with **simpler ML models** such as linear regression, decision trees, or basic neural networks before exploring complex architectures.
 * Ensure **high-quality simulation data**: Data preprocessing and feature engineering are crucial.
 * Rigorously **validate AI-enhanced CAE workflows**: Compare results with traditional simulation methods and experimental data.
-* Implement **explainability and interpretability techniques** (e.g., SHAP, LIME) to ensure insights beyond black-box models.
 * Adopt an **iterative development approach**: Experiment, evaluate, and refine models continuously.
 * Consider **ethical implications** and potential biases in AI-driven engineering solutions.
 * Stay updated with the **latest AI techniques and research** relevant to CAE.
@@ -29,17 +28,9 @@ This document provides insights into **best practices and case studies** for app
 
 ### 🔹 Industrial Applications
 
-* **[Bosch AI’s RL-based optimization for control & simulation](https://www.bosch.com/stories/reinforcement-learning-in-engineering/)**.
-* **[Enteknograte’s AI-driven CFD & FEA simulations](https://www.enteknograte.com/machine-learning-deep-learning-cfd-fea/)**.
-* **[Cadence’s Generative AI Portfolio Using Geometric Deep Learning](https://www.cadence.com/)**.
-* **[Altair’s physicsAI Application in CAE](https://www.altair.com/physicsai/)**.
-* **[EPFL’s Computer Vision Lab Applications in Aeronautics Engineering](https://www.epfl.ch/labs/cvlab/)**.
-
-### 🔹 AI-Augmented CAE Workflows
-
-* AI-assisted **structural optimization** using **deep learning**.
-* Generative AI for **aerodynamic shape design**.
-* Self-supervised learning for **CAE anomaly detection**.
+- [Cadence's Generative AI Portfolio using Geometric Deep Learning](https://www.cadence.com/en_US/home/explore/geometric-deep-learning.html)
+- [Altair's physicsAI Application in CAE](https://altair.com/ai-powered-engineering)
+- [Engineering Intelligence with Neural Concept Shape](https://www.neuralconcept.com/customer-stories)
 
 ---
 
