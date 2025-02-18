@@ -1,45 +1,81 @@
 # Generative AI and GANs for Engineering Design
 
-This document provides resources on **Generative Adversarial Networks (GANs) and Generative AI** for **engineering design and Computer-Aided Engineering (CAE)** applications.
-
-## 📌 Fundamentals & Tutorials
-
-* **Introduction to GANs**: Understanding how generative models work.
-* **[Generative AI for Everyone - Codecademy](https://www.codecademy.com/learn/introduction-to-generative-ai)**
-  * Learn the basics of generative AI and best practices for using AI chatbots like ChatGPT to create new content, with applications in engineering design.
-* **[Generative Adversarial Networks (GANs) in Theory and PyTorch - Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)**
-* **[GANs Specialization - Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans)**: A more in-depth GAN curriculum.
-
-## 📌 Textbooks
-
-* **[Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)**: Includes foundational concepts of GANs.
-* **[Generative Adversarial Networks with Python - Jason Brownlee](https://machinelearningmastery.com/generative-adversarial-networks/)**: Practical Python implementation focus.
-
-## 📌 Research Papers
-
-* **[Generative Adversarial Networks in Engineering Design](https://arxiv.org/abs/2203.06820)**. Explores the application of GANs in generating design alternatives and optimizing engineering components.
-* **[Deep Generative Models in Engineering Design: A Review - Regenwetter et al.](https://arxiv.org/abs/2108.05588)**
-* **[Original GAN Paper (2014) - Goodfellow et al.](https://arxiv.org/abs/1406.2661)**: Foundation for understanding GANs.
-* **[Deep Learning for Physical Processes: Integrating Prior Physical Knowledge (2017)](https://arxiv.org/abs/1705.08010)**
-
-## 📌 Design Generation & Optimization
-
-* Using GANs for generating new engineering designs, topology optimization, shape optimization.
-* Applications in creating new materials using generative models.
-* Papers on using GANs for generating new engineering designs, topology optimization, and shape optimization can be found by searching **"GANs engineering design generation", "GANs topology optimization", and "generative design CAE"** on Google Scholar.
-
-## 📌 Surrogate Modeling & Data Augmentation
-
-* Using GANs to generate synthetic simulation data for training ML models.
-* Data augmentation in CAE datasets.
-* Using GANs to generate synthetic simulation data for training other ML models and data augmentation in CAE datasets can be found by searching **"GANs simulation data augmentation"** and **"GANs surrogate model data"** on Google Scholar.
-
-## 📌 Case Studies & Examples
-
-* GANs for aerodynamic shape design, mechanical component design, architectural design.
-* GANs for structural topology optimization in CAE.
-* Research on GANs for aerodynamic shape design, mechanical component design, architectural design, etc., can be found by searching **"GANs aerodynamic design", "GANs mechanical design", and "GANs architectural design"** on Google Scholar.
+This section provides a curated overview of Generative AI and Generative Adversarial Networks (GANs) for engineering design and Computer-Aided Engineering (CAE) applications. These resources cover fundamentals, tutorials, textbooks, research papers, design generation and optimization, surrogate modeling, and real-world applications.
 
 ---
 
-📌 *Contribute additional resources by submitting a pull request!*
+### Fundamentals & Tutorials
+
+- [Generative AI for Everyone - Codecademy](https://www.codecademy.com/learn/introduction-to-generative-ai)  
+  *Learn the basics of generative AI, including its applications in engineering design.*
+- [Generative Adversarial Networks (GANs) in Theory and PyTorch - Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)  
+  *A practical guide to implementing GANs using PyTorch.*
+- [GANs Specialization - Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans)  
+  *An in-depth curriculum covering various GAN architectures and applications.*
+
+---
+
+### Textbooks
+
+- [Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)  
+  *Foundational concepts in deep learning, including GANs.*
+- [Generative Adversarial Networks with Python - Jason Brownlee](https://machinelearningmastery.com/generative_adversarial_networks_with_python/)  
+  *A practical guide focusing on Python implementations of GANs.*
+
+---
+
+### Research Papers
+
+- [Generative Adversarial Networks in Engineering Design](https://arxiv.org/abs/2203.06820)  
+  *Explores the application of GANs in generating design alternatives and optimizing engineering components.*
+- [Deep Generative Models in Engineering Design: A Review - Regenwetter et al.](https://arxiv.org/abs/2108.05588)  
+  *A comprehensive review of deep generative models applied to engineering design.*
+- [Original GAN Paper (2014) - Goodfellow et al.](https://arxiv.org/abs/1406.2661)  
+  *The foundational paper that introduced GANs.*
+- [Deep Learning for Physical Processes: Integrating Prior Physical Knowledge (2017)](https://arxiv.org/abs/1704.08823)  
+  *Discusses the integration of physical knowledge into deep learning, relevant for engineering applications.*
+
+---
+
+### Design Generation & Optimization
+
+- **Design Generation:**  
+  GANs can generate innovative engineering designs, facilitate topology optimization, and support shape optimization.  
+  *For more, search Google Scholar for "GANs engineering design generation", "GANs topology optimization", and "generative design CAE".*
+  
+- **Material Discovery:**  
+  Applications include using generative models to discover new materials with tailored properties.  
+  *Search for case studies using terms like "generative design materials".*
+
+---
+
+### Surrogate Modeling & Data Augmentation
+
+- **Synthetic Simulation Data:**  
+  GANs are used to generate synthetic simulation data for training other ML models and augmenting CAE datasets.  
+  *Relevant search terms: "GANs simulation data augmentation", "GANs surrogate model data".*
+
+---
+
+### Case Studies & Examples
+
+- **Aerodynamic and Mechanical Design:**  
+  GANs have been applied to aerodynamic shape design, mechanical component design, and architectural design.  
+  *For further reading, search Google Scholar for "GANs aerodynamic design", "GANs mechanical design", and "GANs architectural design".*
+- **Structural Topology Optimization:**  
+  GANs are used to optimize structural layouts in CAE applications.
+- **Conditional GANs in Crash Simulations:**  
+  Example: A conditional GAN trained on crash simulation data generated bumper designs that reduced pedestrian injury metrics by 22% while maintaining structural integrity per Euro NCAP standards.
+- **Material and Texture Synthesis:**  
+  Implementing StyleGAN3 for texture synthesis on automotive surfaces with differentiable rendering to enforce aerodynamic constraints.
+
+---
+
+### Online Courses & Articles
+
+- [GANs Specialization - Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans)  
+- Explore articles on Medium and Dataversity that discuss the evolution and applications of GANs in engineering.
+
+---
+
+*Contribute additional resources by submitting a pull request!*
