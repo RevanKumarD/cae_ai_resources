@@ -40,7 +40,7 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
 ### Courses & Tutorials
 - **Online Courses:**
   - [DeepLearning.AI Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
-  - [MIT OpenCourseWare - Deep Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s191-introduction-to-deep-learning-january-iap-2020/)
+  - [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
 - **Additional Guides:**
   - [Pytorch for Deep Learning & Machine Learning - Full Course (freeCodeCamp.org)](https://www.youtube.com/watch?v=V_xro1bcAuA)
@@ -82,10 +82,7 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
   I’m a huge fan of O'Reilly's practical, code-focused guides.
 - **Stanford CS229: Machine Learning Course:**  
   A classic course for a deep dive into ML concepts.  
-  [Stanford CS229 Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - **Andrew Ng's Courses:**  
-  - [AI For Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone)  
-  - [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)  
   These courses provide a robust starting point.
 - **CodeCamp.org:**  
   Great for bootcamp-style, hands-on video tutorials.
