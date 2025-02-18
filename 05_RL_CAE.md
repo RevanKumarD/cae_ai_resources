@@ -1,36 +1,62 @@
 # Reinforcement Learning for Optimization in CAE
 
-This document provides resources on **Reinforcement Learning (RL) and its applications in Computer-Aided Engineering (CAE)**.
-
-## 📌 Fundamentals & Tutorials
-
-* **Understanding Reinforcement Learning in Engineering Applications**.
-* **[Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)**: A series of courses covering reinforcement learning principles, with potential applications in optimizing engineering simulations and designs.
-* **[David Silver's Reinforcement Learning Course (UCL)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/teaching/index.html)**: A classic, in-depth RL course with materials.
-* **[UC Berkeley Deep Reinforcement Learning Course (CS294)](http://rail.eecs.berkeley.edu/deeprlcourse/)**: A more advanced, practical RL course.
-* **[Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/)**: A resource offering practical code and explanations for key RL algorithms.
-
-## 📌 Textbooks
-
-* **[Reinforcement Learning: An Introduction - Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html)**: The "bible" of RL, and a free online version is available.
-
-## 📌 Research Papers
-
-* **Reinforcement Learning for Structural Optimization**: Discusses the application of reinforcement learning algorithms in optimizing structural designs within CAE.
-* **[Deep Reinforcement Learning for Continuous Control using Deep Deterministic Policy Gradient (DDPG Paper)](https://arxiv.org/abs/1509.02971)**: DDPG is often used in continuous control problems relevant to CAE.
-
-## 📌 RL for CAE Optimization
-
-* **Optimization of simulation parameters, control problems in CAE, design optimization using RL**.
-* Papers on using RL for optimizing controllers in simulations (e.g., fluid flow control, robotic simulations) can be found by searching **"reinforcement learning simulation control", "RL fluid flow control", "RL robotics simulation"**.
-* RL for design parameter optimization in CAE models can be explored via **"reinforcement learning design optimization CAE", "RL parameter optimization simulation"**.
-
-## 📌 Example Applications
-
-* RL in robotics, manufacturing process optimization, and sequential decision-making in simulations.
-* Consider problems where sequential decision-making and interaction with a simulation environment are key.
-* Specific RL application papers will depend heavily on the CAE optimization task – search based on your application.
+This section provides a curated overview of Reinforcement Learning (RL) resources for optimizing Computer-Aided Engineering (CAE) workflows. It covers fundamentals, tutorials, textbooks, research papers, and application-specific examples, along with personal recommendations.
 
 ---
 
-📌 *Contribute additional resources by submitting a pull request!*
+### Courses & Tutorials
+
+- [Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)  
+- [David Silver's Reinforcement Learning Course (UCL)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/teaching/index.html)  
+- [UC Berkeley Deep Reinforcement Learning Course (CS294)](http://rail.eecs.berkeley.edu/deeprlcourse/)  
+- [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/)  
+
+---
+
+### Textbooks
+
+- [Reinforcement Learning: An Introduction - Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html)  
+
+---
+
+### Research Papers
+
+- [Deep Reinforcement Learning for Continuous Control using Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/abs/1509.02971)  
+- *Additional papers on RL for structural optimization and parameter tuning in CAE can be found by searching relevant keywords on Google Scholar.*
+
+---
+
+### RL for CAE Optimization
+
+- **Optimization of Simulation Parameters & Control Problems:**  
+  Search for studies using terms like "reinforcement learning simulation control", "RL fluid flow control", and "RL robotics simulation".
+- **Design Optimization in CAE Models:**  
+  Look up "reinforcement learning design optimization CAE" or "RL parameter optimization simulation" for domain-specific applications.
+
+---
+
+### Example Applications
+
+- **Robotics & Manufacturing Process Optimization:**  
+  RL has been applied to optimize control policies in robotic simulations and manufacturing processes.
+- **Sequential Decision-Making in Simulations:**  
+  Use RL for simulation-based optimization tasks where sequential decisions and environment interactions are key.
+- **Predictive Maintenance & Control Optimization:**  
+  Explore case studies where RL is used to predict failures and optimize operational parameters in engineering systems.
+
+---
+
+### Personal Recommendations
+
+- **David Silver's RL Course:**  
+  When I started with RL, David Silver's course was my one-stop solution—his explanations are outstanding.
+- **DeepMind/UCL Lecture Videos:**  
+  The DeepMind lecture series from UCL offers in-depth insights and complements Silver’s teachings well.
+- **Hands-On with OpenAI Gym:**  
+  Practical experience with OpenAI Gym is invaluable for applying RL in real-world scenarios.
+- **For a Deep Dive:**  
+  I refer to Brutto's book for advanced topics in reinforcement learning.
+
+---
+
+*Contribute additional resources by submitting a pull request!*
