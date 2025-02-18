@@ -4,6 +4,8 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
 
 ---
 
+## 📌 RL
+
 ### Courses & Tutorials
 
 - [Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)  A classic, in-depth RL course with materials.
@@ -13,21 +15,17 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
 - [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/)
 - [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
 
----
 
 ### Textbooks
 
 - [Reinforcement Learning: An Introduction - Sutton & Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)  
 
----
 
 ### Research Papers
 
----
 
 ### RL for CAE Optimization
 
----
 
 ### Example Applications
 
@@ -40,7 +38,7 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
 
 ---
 
-### Personal Recommendations
+## Personal Recommendations
 
 - **David Silver's RL Course:**  
   When I started with RL, David Silver's course was my one-stop solution—his explanations are outstanding.
