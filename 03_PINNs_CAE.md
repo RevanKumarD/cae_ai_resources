@@ -4,7 +4,7 @@ This section provides a detailed overview of Physics-Informed Neural Networks (P
 
 ---
 
-## PINNS
+## 📌 PINNS
 
 ### Courses & Tutorials
 
@@ -13,7 +13,6 @@ This section provides a detailed overview of Physics-Informed Neural Networks (P
 - [Introduction to PINNs by The Engineered Mind](https://www.engineered-mind.com/engineering/physics-informed-neural-networks-pinns/)  
 - [Scientific Machine Learning through the Lens of PINNs (Class Central)](https://www.classcentral.com/search?q=Physics+Informed+Neural+Networks)  
 
----
 
 ### Libraries & Tools
 
@@ -24,7 +23,6 @@ This section provides a detailed overview of Physics-Informed Neural Networks (P
 - [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)  
   *Widely used frameworks for developing custom PINN implementations.*
 
----
 
 ### Research Papers
 
@@ -32,7 +30,6 @@ This section provides a detailed overview of Physics-Informed Neural Networks (P
 - [Data-driven Solutions of Nonlinear Partial Differential Equations (2017)](https://arxiv.org/abs/1706.07831)
 - [On the Approximation Properties of Neural Network-based PDE Solvers (2020)](https://arxiv.org/abs/2007.01338)
 
----
 
 ### CAE-Specific Applications & Case Studies
 
@@ -45,7 +42,7 @@ This section provides a detailed overview of Physics-Informed Neural Networks (P
 
 ---
 
-## Personal Recommendations
+## 📌 Personal Recommendations
 
 - **Steve Brunton's PINNs Lecture Series:**  
   I highly recommend Steve Brunton's lectures on PINNs, especially his "AI/ML+Physics Part 1: Choosing What to Model [Physics Informed Machine Learning]". His explanations, combined with practical research case studies, provide valuable insights into applying PINNs in CAE workflows.
