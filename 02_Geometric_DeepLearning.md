@@ -54,7 +54,13 @@ This section provides resources for **Geometric Deep Learning (GDL)** and its ap
 ## 📌 Personal Recommendations
 
 Geometric Deep Learning (GDL) is a core section for handling non-Euclidean CAE data. Michael Bronstein is a pioneer in this field, and his courses, lectures, and publications are essential for anyone wishing to dive deep into GDL. For those interested in practical experimentation, try replicating open-source implementations of models like PointNet or various graph neural networks available on platforms such as Papers with Code. Most implementations will utilize PyTorch Geometric, so familiarity with this library is highly recommended.
+---
+
+## 📌 Additional Learning Resources & Contributions
+
+- **Community Contributions:**  
+  You are encouraged to contribute additional resources, improvements, and feedback. Check out the initial repository at [cae_ai_resources](https://github.com/RevanKumarD/cae_ai_resources) and submit a pull request with your suggestions.
 
 ---
 
-*Contribute additional resources by submitting a pull request!*
+*Happy learning and contributing!*
