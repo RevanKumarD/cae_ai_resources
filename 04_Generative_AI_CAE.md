@@ -10,6 +10,8 @@ This section provides a curated overview of Generative AI and Generative Adversa
   *An in-depth curriculum covering various GAN architectures and applications.*
 - [Generative Adversarial Networks (GANs) in Theory and PyTorch - Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)  
   *A practical guide to implementing GANs using PyTorch.*
+- [Generative Adversarial Networks with Python - Jason Brownlee](https://machinelearningmastery.com/start-here/#gans)  
+  *A practical guide focusing on Python implementations of GANs.*
 
 ---
 
@@ -17,8 +19,7 @@ This section provides a curated overview of Generative AI and Generative Adversa
 
 - [Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)  
   *Foundational concepts in deep learning, including GANs.*
-- [Generative Adversarial Networks with Python - Jason Brownlee](https://machinelearningmastery.com/generative_adversarial_networks_with_python/)  
-  *A practical guide focusing on Python implementations of GANs.*
+- [Hands-On Large Language Models by Jay Alammar](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
 ---
 
@@ -66,13 +67,6 @@ This section provides a curated overview of Generative AI and Generative Adversa
   Example: A conditional GAN trained on crash simulation data generated bumper designs that reduced pedestrian injury metrics by 22% while maintaining structural integrity per Euro NCAP standards.
 - **Material and Texture Synthesis:**  
   Implementing StyleGAN3 for texture synthesis on automotive surfaces with differentiable rendering to enforce aerodynamic constraints.
-
----
-
-### Online Courses & Articles
-
-- [GANs Specialization - Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans)  
-- Explore articles on Medium and Dataversity that discuss the evolution and applications of GANs in engineering.
 
 ---
 
