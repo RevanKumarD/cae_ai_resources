@@ -6,12 +6,10 @@ This section provides a curated overview of Generative AI and Generative Adversa
 
 ### Fundamentals & Tutorials
 
-- [Generative AI for Everyone - Codecademy](https://www.codecademy.com/learn/introduction-to-generative-ai)  
-  *Learn the basics of generative AI, including its applications in engineering design.*
-- [Generative Adversarial Networks (GANs) in Theory and PyTorch - Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)  
-  *A practical guide to implementing GANs using PyTorch.*
 - [GANs Specialization - Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans)  
   *An in-depth curriculum covering various GAN architectures and applications.*
+- [Generative Adversarial Networks (GANs) in Theory and PyTorch - Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)  
+  *A practical guide to implementing GANs using PyTorch.*
 
 ---
 
