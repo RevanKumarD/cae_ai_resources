@@ -4,6 +4,8 @@ This section provides a curated overview of Generative AI and Generative Adversa
 
 ---
 
+## 📌 GANs
+
 ### Fundamentals & Tutorials
 
 - [GANs Specialization - Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans)  
@@ -13,7 +15,6 @@ This section provides a curated overview of Generative AI and Generative Adversa
 - [Generative Adversarial Networks with Python - Jason Brownlee](https://machinelearningmastery.com/start-here/#gans)  
   *A practical guide focusing on Python implementations of GANs.*
 
----
 
 ### Textbooks
 
@@ -21,7 +22,6 @@ This section provides a curated overview of Generative AI and Generative Adversa
   *Foundational concepts in deep learning, including GANs.*
 - [Hands-On Large Language Models by Jay Alammar](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
----
 
 ### Research Papers
 
@@ -32,7 +32,6 @@ This section provides a curated overview of Generative AI and Generative Adversa
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475)  
   *Uses GPT Based Graph Networks to autoregressively output traingle meshes, complete meshes*
 
----
 
 ### Design Generation & Optimization
 
@@ -45,7 +44,6 @@ This section provides a curated overview of Generative AI and Generative Adversa
   [Generative deep learning for the inverse design of materials](https://arxiv.org/pdf/2409.19124)
   [GenAI in material science](https://www.sciencedirect.com/science/article/pii/S2352847823000771)
 
----
 
 ### Case Studies & Examples
 
