@@ -1,49 +1,55 @@
 # Physics-Informed Neural Networks (PINNs) for CAE Workflows
 
-This document provides resources for **Physics-Informed Neural Networks (PINNs)** and their applications in **Computer-Aided Engineering (CAE)**.
-
-## 📌 Fundamentals & Tutorials
-
-* **PINNs Tutorial by Raissi, Perdikaris, Karniadakis (Original Authors)**: [https://maziarraissi.github.io/PINNs/](https://maziarraissi.github.io/PINNs/)
-  * An excellent starting point with code examples, but uses TensorFlow 1.x and needs updating to TensorFlow 2.x/PyTorch for modern use.
-* **YouTube Tutorials on PINNs**: Search "Physics Informed Neural Networks tutorial" on YouTube for many video explanations and code-walkthroughs.
-* **"Introduction to PINNs" by The Engineered Mind**. [https://www.engineered-mind.com/engineering/physics-informed-neural-networks-pinns/]
-* **"Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations" - Original PINNs Paper (2019)**: 
-  * A must-read for understanding the core concept.
-
-## 📌 Libraries & Tools
-
-* **DeepXDE**: [https://deepxde.readthedocs.io/en/latest/](https://deepxde.readthedocs.io/en/latest/)
-  * A Python library focused on PINNs that supports TensorFlow and PyTorch.
-  * Offers tutorials and examples on implementing PINNs for various engineering problems.
-* **SciANN**:(https://www.sciann.com/)
-  * A Keras/TensorFlow wrapper for scientific computations and physics-informed deep learning.
-  * A Python library for scientific machine learning that includes PINNs.
-* **TensorFlow and PyTorch**: PINNs can be implemented directly using these frameworks.
-
-## 📌 Research Papers
-
-* **"Physics-Informed Neural Networks: A Comprehensive Review"**: This paper provides an extensive overview of PINNs, discussing their formulation, applications in solving partial differential equations, and relevance to CAE workflows.
-* **"Physics-Informed Neural Networks for Engineering Applications" by Fraunhofer IISB**.
-* **"Data-driven solutions of nonlinear partial differential equations" (2017 - Precursor to PINNs)**: [https://arxiv.org/abs/1706.07831](https://arxiv.org/abs/1706.07831)
-  * Important earlier work.
-* **"On the approximation properties of neural network-based PDE solvers" (2020)**: [https://arxiv.org/abs/2007.01338](https://arxiv.org/abs/2007.01338)
-  * Explores theoretical aspects of PINNs approximation.
-
-## 📌 CAE-Specific Applications & Research Papers
-
-* **Solving PDEs in CAE contexts (heat transfer, fluid flow, solid mechanics)**:
-  * Papers on PINNs for forward and inverse problems in various engineering disciplines: Search Google Scholar for "physics informed neural networks fluid dynamics" "PINNs heat transfer" "PINNs solid mechanics"
-* **Applications of PINNs for parameter identification and model calibration in CAE**:
-  * Search Google Scholar for "PINNs parameter identification CAE" "PINNs model calibration simulation"
-* Many application-specific PINNs papers exist - search in your specific CAE domain.
-
-## 📌 Case Studies
-
-* **EPFL's Computer Vision Lab applications in aeronautics engineering**.
-
-This resource list should provide a strong starting point for exploring PINNs in CAE. Remember to search Google Scholar for application-specific papers relevant to your particular CAE domain.
+This section provides a detailed overview of Physics-Informed Neural Networks (PINNs) and their applications in Computer-Aided Engineering (CAE). PINNs integrate physical laws directly into neural network training to solve complex partial differential equations (PDEs) for both forward and inverse problems, ensuring that models adhere to known physical constraints.
 
 ---
 
-📌 *Contribute additional resources by submitting a pull request!*
+## PINNS
+
+### Courses & Tutorials
+
+- [PINNs Tutorial by Raissi, Perdikaris, Karniadakis](https://maziarraissi.github.io/PINNs/)  
+  *An excellent starting point with code examples (note: uses TensorFlow 1.x; consider updating to TensorFlow 2.x/PyTorch).*
+- [Introduction to PINNs by The Engineered Mind](https://www.engineered-mind.com/engineering/physics-informed-neural-networks-pinns/)  
+- [Scientific Machine Learning through the Lens of PINNs (Class Central)](https://www.classcentral.com/search?q=Physics+Informed+Neural+Networks)  
+
+---
+
+### Libraries & Tools
+
+- [DeepXDE](https://deepxde.readthedocs.io/en/latest/)  
+  *A Python library focused on PINNs that supports both TensorFlow and PyTorch, with numerous tutorials and examples.*
+- [SciANN](https://sciann.readthedocs.io/en/latest/)  
+  *A Keras/TensorFlow wrapper for scientific computations and physics-informed deep learning.*
+- [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)  
+  *Widely used frameworks for developing custom PINN implementations.*
+
+---
+
+### Research Papers
+
+- [Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations (2019)](https://www.sciencedirect.com/science/article/pii/S004579491832403X)
+- [Data-driven Solutions of Nonlinear Partial Differential Equations (2017)](https://arxiv.org/abs/1706.07831)
+- [On the Approximation Properties of Neural Network-based PDE Solvers (2020)](https://arxiv.org/abs/2007.01338)
+
+---
+
+### CAE-Specific Applications & Case Studies
+
+- **Solving PDEs in CAE:**  
+  [Physics-Informed Neural Networks for Heat Transfer Problems](https://asmedigitalcollection.asme.org/heattransfer/article/143/6/060801/1104439/Physics-Informed-Neural-Networks-for-Heat-Transfer)
+- **Parameter Identification & Model Calibration:**  
+  [Physics-Informed Neural Networks for Material Model Calibration](https://arxiv.org/abs/2212.07723)
+- **Case Studies:**  
+  - *EPFL's Computer Vision Lab* has explored PINN applications in aeronautics engineering.  [Search Link](https://search.epfl.ch/?q=Pinns)
+
+---
+
+## Personal Recommendations
+
+- **Steve Brunton's PINNs Lecture Series:**  
+  I highly recommend Steve Brunton's lectures on PINNs, especially his "AI/ML+Physics Part 1: Choosing What to Model [Physics Informed Machine Learning]". His explanations, combined with practical research case studies, provide valuable insights into applying PINNs in CAE workflows.
+
+---
+
+*Contribute additional resources by submitting a pull request!*
