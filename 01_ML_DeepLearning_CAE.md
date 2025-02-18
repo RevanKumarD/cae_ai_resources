@@ -46,6 +46,8 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
   - [Pytorch for Deep Learning & Machine Learning - Full Course (freeCodeCamp.org)](https://www.youtube.com/watch?v=V_xro1bcAuA)
   - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=tPYj3fFJGjk)
   - ["Introduction to PyTorch" - UvA Deep Learning Notebooks (2024)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)
+  - [Neural Networks (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - ["TensorFlow Examples" - GitHub Repository](https://github.com/aymericdamien/TensorFlow-Examples.git)
 
 ### Textbooks & Reference Books
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
@@ -56,11 +58,8 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
 - **PyTorch:** Flexible and efficient library for building deep neural networks.
 - **Keras:** User-friendly API for rapid prototyping and training of neural networks.
 
-### Research Papers
-- [Deep Residual Learning for Image Recognition by He et al.](https://arxiv.org/abs/1512.03385)
-- [Batch Normalization by Ioffe & Szegedy](https://arxiv.org/abs/1502.03167)
-- [A Survey of Deep Learning for Engineering Design (Review Paper, 2021)](https://www.sciencedirect.com/science/article/pii/S1364032121000249)
-- ["TensorFlow Examples" - GitHub Repository](https://github.com/aymericdamien/TensorFlow-Examples.git)
+### Research Papers & Case Studies
+
 
 ### Neural Network Types & Applications
 
