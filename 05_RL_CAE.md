@@ -6,32 +6,26 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
 
 ### Courses & Tutorials
 
-- [Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)  
+- [Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)  A classic, in-depth RL course with materials.
 - [David Silver's Reinforcement Learning Course (UCL)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/teaching/index.html)  
-- [UC Berkeley Deep Reinforcement Learning Course (CS294)](http://rail.eecs.berkeley.edu/deeprlcourse/)  
-- [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/)  
+- [UC Berkeley Deep Reinforcement Learning Course (CS294)](http://rail.eecs.berkeley.edu/deeprlcourse/)  A more advanced, practical RL course.
+- [DeepMind * UCL Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+- [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/)
+- [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
 
 ---
 
 ### Textbooks
 
-- [Reinforcement Learning: An Introduction - Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html)  
+- [Reinforcement Learning: An Introduction - Sutton & Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)  
 
 ---
 
 ### Research Papers
 
-- [Deep Reinforcement Learning for Continuous Control using Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/abs/1509.02971)  
-- *Additional papers on RL for structural optimization and parameter tuning in CAE can be found by searching relevant keywords on Google Scholar.*
-
 ---
 
 ### RL for CAE Optimization
-
-- **Optimization of Simulation Parameters & Control Problems:**  
-  Search for studies using terms like "reinforcement learning simulation control", "RL fluid flow control", and "RL robotics simulation".
-- **Design Optimization in CAE Models:**  
-  Look up "reinforcement learning design optimization CAE" or "RL parameter optimization simulation" for domain-specific applications.
 
 ---
 
@@ -52,10 +46,10 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
   When I started with RL, David Silver's course was my one-stop solution—his explanations are outstanding.
 - **DeepMind/UCL Lecture Videos:**  
   The DeepMind lecture series from UCL offers in-depth insights and complements Silver’s teachings well.
-- **Hands-On with OpenAI Gym:**  
-  Practical experience with OpenAI Gym is invaluable for applying RL in real-world scenarios.
+- **Hands-On with OpenAI Gym & Stable Baselines:**  
+  Practical experience with OpenAI Gym & Stable Baselines is invaluable for applying RL in real-world scenarios.
 - **For a Deep Dive:**  
-  I refer to Brutto's book for advanced topics in reinforcement learning.
+  I refer to Sutton & Barto's book for advanced topics in reinforcement learning.
 
 ---
 
