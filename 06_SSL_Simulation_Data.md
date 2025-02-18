@@ -51,4 +51,11 @@ This section provides a curated overview of Self-Supervised Learning (SSL) techn
 
 ---
 
-*Contribute additional resources by submitting a pull request!*
+## 📌 Additional Learning Resources & Contributions
+
+- **Community Contributions:**  
+  You are encouraged to contribute additional resources, improvements, and feedback. Check out the initial repository at [cae_ai_resources](https://github.com/RevanKumarD/cae_ai_resources) and submit a pull request with your suggestions.
+
+---
+
+*Happy learning and contributing!*
