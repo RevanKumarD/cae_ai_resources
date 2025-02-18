@@ -13,34 +13,22 @@ Machine Learning enables computers to learn from data without explicit programmi
 - **Online Courses:**
   - [Machine Learning - Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
   - [Machine Learning for Engineering (Coursera, Georgia Tech)](https://www.coursera.org/learn/machine-learning-engineering)
-  - [Machine Learning in Engineering (edX, TU Delft)](https://www.edx.org/course/machine-learning-for-engineering)
   - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - **Additional Tutorials:**
   - [AI For Everyone - Andrew Ng (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
-  - TensorFlow’s tutorial series on “Machine Learning for Engineering”
-  - PyTorch’s “Deep Learning for Engineers” guide
+  - [Machine Learning for Everybody - freeCodeCamp.org](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
 ### Textbooks & Reference Books
 - [Pattern Recognition and Machine Learning by Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-- [The Elements of Statistical Learning by Hastie, Tibshirani, and Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [Machine Learning For Absolute Beginners](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/0999685902)
-- [Fundamentals of Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0128147615)
 
 ### Libraries & Tools
-- **Scikit-learn:** Comprehensive library for traditional ML algorithms.
+- **Scikit-learn:** Comprehensive library for traditional ML algorithms. One-stop library for ML.
 - **NumPy & Pandas:** Essential for numerical computing and data manipulation.
 - **Matplotlib:** For creating charts and visualizations.
 
 ### Review Papers & Case Studies
 - **Review Paper:**  
-  - ["Machine Learning in Computer-Aided Engineering" – Springer (2021)](https://www.sciencedirect.com/science/article/pii/S0021999119307125)
-- **Case Studies & Applications:**
-  - Surrogate Modeling in Simulations  
-    *(Search Google Scholar for "machine learning surrogate model simulation CAE")*
-  - Anomaly Detection in Simulation Results  
-    *(Search Google Scholar for "anomaly detection simulation results machine learning CAE")*
-  - Material Model Calibration  
-    *(Search Google Scholar for "machine learning material model calibration CAE")*
+  - ["Machine Learning in Computer Aided Engineering" – ResearchGate (2023)](https://www.researchgate.net/publication/374430117_Machine_Learning_in_Computer_Aided_Engineering)
 
 ---
 
@@ -55,12 +43,13 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
   - [MIT OpenCourseWare - Deep Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s191-introduction-to-deep-learning-january-iap-2020/)
   - [fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/)
 - **Additional Guides:**
-  - PyTorch’s “Deep Learning for Engineers” guide
+  - [Pytorch for Deep Learning & Machine Learning - Full Course (freeCodeCamp.org)](https://www.youtube.com/watch?v=V_xro1bcAuA)
+  - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial (freeCodeCamp.org)](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+  - ["Introduction to PyTorch" - UvA Deep Learning Notebooks (2024)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)
 
 ### Textbooks & Reference Books
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Deep Learning for Computational Engineering by Yalcin Yildirim](https://www.amazon.com/Deep-Learning-Computational-Engineering-Yildirim/dp/3030543860)
 
 ### Libraries & Tools
 - **TensorFlow:** Powerful library for DL and numerical computations.
@@ -71,13 +60,14 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
 - [Deep Residual Learning for Image Recognition by He et al.](https://arxiv.org/abs/1512.03385)
 - [Batch Normalization by Ioffe & Szegedy](https://arxiv.org/abs/1502.03167)
 - [A Survey of Deep Learning for Engineering Design (Review Paper, 2021)](https://www.sciencedirect.com/science/article/pii/S1364032121000249)
+- ["TensorFlow Examples" - GitHub Repository](https://github.com/aymericdamien/TensorFlow-Examples.git)
 
 ### Neural Network Types & Applications
 
 | **Neural Network Type** | **Description**                                                                     | **Applications**                                                        |
 |-------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | **CNNs**                | Specialized for grid-like data (e.g., images), leveraging translational invariance  | Image recognition, object detection, image segmentation                 |
-| **RNNs**                | Designed for sequential data, using feedback loops                                  | Time series analysis, speech recognition, natural language processing   |
+| **RNNs**                | Designed for sequential data, using feedback loops                                   | Time series analysis, speech recognition, natural language processing   |
 | **LSTMs**               | RNN variant that handles long-term dependencies using memory cells                   | Language modeling, machine translation, speech recognition              |
 | **GANs**                | Two networks (generator & discriminator) compete to generate realistic data          | Image generation, text-to-image synthesis, data augmentation            |
 | **VAEs**                | Learns compressed data representations, generating new samples probabilistically     | Image generation, anomaly detection, drug discovery                     |
@@ -86,8 +76,8 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
 
 ## 📌 Personal Recommendations
 
-- **Ian Goodfellow's "Deep Learning" Book:**  
-  If you have time to read, it's an excellent resource for theoretical foundations.
+- **Ian Goodfellow's "Deep Learning" Book & Bishop's "Pattern Recognition" Book:**  
+  If you have time to read, these are excellent resources for theoretical foundations.
 - **O'Reilly’s Hands-On Books:**  
   I’m a huge fan of O'Reilly's practical, code-focused guides.
 - **Stanford CS229: Machine Learning Course:**  
