@@ -8,7 +8,7 @@ This section provides a curated overview of Self-Supervised Learning (SSL) techn
 
 ### Fundamentals & Tutorials
 
-- [Self-Supervised Learning: A Survey](https://arxiv.org/abs/2007.00914)  
+- [Self-Supervised Learning: A Survey](https://arxiv.org/pdf/2301.05712)  
 - [Self-Supervised Learning with PyTorch](https://pytorch.org/tutorials/beginner/self_supervised_learning.html)  
 - [NeurIPS 2020 Tutorial on Self-Supervised Learning](https://nips.cc/Conferences/2020/Schedule?showEvent=17386)  
 - *Yann LeCun's presentations on Self-Supervised Learning* – Search YouTube for "Yann LeCun self-supervised learning"
