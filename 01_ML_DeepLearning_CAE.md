@@ -90,4 +90,11 @@ Deep Learning leverages multi-layered neural networks to learn complex patterns 
 
 ---
 
+## 📌 Additional Learning Resources & Contributions
+
+- **Community Contributions:**  
+  You are encouraged to contribute additional resources, improvements, and feedback. Check out the initial repository at [cae_ai_resources](https://github.com/RevanKumarD/cae_ai_resources) and submit a pull request with your suggestions.
+
+---
+
 *Happy learning and contributing!*
