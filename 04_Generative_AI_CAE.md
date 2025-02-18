@@ -25,14 +25,12 @@ This section provides a curated overview of Generative AI and Generative Adversa
 
 ### Research Papers
 
-- [Generative Adversarial Networks in Engineering Design](https://arxiv.org/abs/2203.06820)  
-  *Explores the application of GANs in generating design alternatives and optimizing engineering components.*
-- [Deep Generative Models in Engineering Design: A Review - Regenwetter et al.](https://arxiv.org/abs/2108.05588)  
-  *A comprehensive review of deep generative models applied to engineering design.*
 - [Original GAN Paper (2014) - Goodfellow et al.](https://arxiv.org/abs/1406.2661)  
   *The foundational paper that introduced GANs.*
-- [Deep Learning for Physical Processes: Integrating Prior Physical Knowledge (2017)](https://arxiv.org/abs/1704.08823)  
-  *Discusses the integration of physical knowledge into deep learning, relevant for engineering applications.*
+- [Deep Generative Models in Engineering Design: A Review - Regenwetter et al.](https://decode.mit.edu/assets/papers/2022_regenwetter_review.pdf)  
+  *A comprehensive review of deep generative models applied to engineering design.*
+- [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475)  
+  *Uses GPT Based Graph Networks to autoregressively output traingle meshes, complete meshes*
 
 ---
 
@@ -40,19 +38,12 @@ This section provides a curated overview of Generative AI and Generative Adversa
 
 - **Design Generation:**  
   GANs can generate innovative engineering designs, facilitate topology optimization, and support shape optimization.  
-  *For more, search Google Scholar for "GANs engineering design generation", "GANs topology optimization", and "generative design CAE".*
+  [Deep Generative Design](https://www.researchgate.net/publication/334472895_Deep_Generative_Design_Integration_of_Topology_Optimization_and_Generative_Models)
   
 - **Material Discovery:**  
   Applications include using generative models to discover new materials with tailored properties.  
-  *Search for case studies using terms like "generative design materials".*
-
----
-
-### Surrogate Modeling & Data Augmentation
-
-- **Synthetic Simulation Data:**  
-  GANs are used to generate synthetic simulation data for training other ML models and augmenting CAE datasets.  
-  *Relevant search terms: "GANs simulation data augmentation", "GANs surrogate model data".*
+  [Generative deep learning for the inverse design of materials](https://arxiv.org/pdf/2409.19124)
+  [GenAI in material science](https://www.sciencedirect.com/science/article/pii/S2352847823000771)
 
 ---
 
@@ -60,13 +51,7 @@ This section provides a curated overview of Generative AI and Generative Adversa
 
 - **Aerodynamic and Mechanical Design:**  
   GANs have been applied to aerodynamic shape design, mechanical component design, and architectural design.  
-  *For further reading, search Google Scholar for "GANs aerodynamic design", "GANs mechanical design", and "GANs architectural design".*
-- **Structural Topology Optimization:**  
-  GANs are used to optimize structural layouts in CAE applications.
-- **Conditional GANs in Crash Simulations:**  
-  Example: A conditional GAN trained on crash simulation data generated bumper designs that reduced pedestrian injury metrics by 22% while maintaining structural integrity per Euro NCAP standards.
-- **Material and Texture Synthesis:**  
-  Implementing StyleGAN3 for texture synthesis on automotive surfaces with differentiable rendering to enforce aerodynamic constraints.
+  [Generative Aerodynamic Design with Diffusion models](https://arxiv.org/pdf/2409.13328) and many more...
 
 ---
 
