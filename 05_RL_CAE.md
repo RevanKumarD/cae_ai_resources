@@ -21,10 +21,6 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
 - [Reinforcement Learning: An Introduction - Sutton & Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)  
 
 
-### Research Papers
-### RL for CAE Optimization
-
-
 ### Example Applications
 
 - **Robotics & Manufacturing Process Optimization:**  
