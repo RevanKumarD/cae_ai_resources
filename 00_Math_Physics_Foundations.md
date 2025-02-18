@@ -1,6 +1,6 @@
 # Mathematics & Physics: Foundational Concepts in CAE
 
-This section outlines essential mathematical and physical concepts crucial for **Computer-Aided Engineering (CAE)**. It is organized into clear sections covering Mathematics, Physics, and Computational Tools, along with additional resources and community contributions enhanced by AI. Use this as a living repository to build your knowledge and contribute new resources.
+This section outlines essential mathematical and physical concepts crucial for **Computer-Aided Engineering (CAE)**. It is organized into clear sections covering Mathematics, Physics, and Computational Tools, along with additional resources and community contributions. Use this as a living repository to build your knowledge and contribute new resources.
 
 ---
 
