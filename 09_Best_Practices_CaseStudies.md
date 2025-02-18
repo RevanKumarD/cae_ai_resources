@@ -35,11 +35,6 @@ This document provides insights into **best practices and case studies** for app
 * **[Altair’s physicsAI Application in CAE](https://www.altair.com/physicsai/)**.
 * **[EPFL’s Computer Vision Lab Applications in Aeronautics Engineering](https://www.epfl.ch/labs/cvlab/)**.
 
-### 🔹 Research Publications
-
-* **[Deep Generative Models in Engineering Design: A Review](https://arxiv.org/abs/2108.05588)**.
-* **[Physics-Informed Machine Learning for CAE: A Survey](https://arxiv.org/abs/2111.01732)**.
-
 ### 🔹 AI-Augmented CAE Workflows
 
 * AI-assisted **structural optimization** using **deep learning**.
