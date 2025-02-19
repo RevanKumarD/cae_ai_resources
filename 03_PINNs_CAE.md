@@ -28,9 +28,9 @@ This section provides a detailed overview of Physics-Informed Neural Networks (P
 
 ### Research Papers
 
-- [Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations (2019)](https://www.sciencedirect.com/science/article/pii/S004579491832403X)
-- [Data-driven Solutions of Nonlinear Partial Differential Equations (2017)](https://arxiv.org/abs/1706.07831)
-- [On the Approximation Properties of Neural Network-based PDE Solvers (2020)](https://arxiv.org/abs/2007.01338)
+- [Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations](https://paperswithcode.com/paper/physics-informed-deep-learning-part-i-data)
+- [Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations ](https://paperswithcode.com/paper/physics-informed-deep-learning-part-ii-data)
+- [VGPT-PINN: Viscosity-enhanced Generative Pre-Trained Physics Informed Neural Networks](https://paperswithcode.com/paper/physics-informed-deep-learning-part-ii-data)
 
 
 ### CAE-Specific Applications & Case Studies
