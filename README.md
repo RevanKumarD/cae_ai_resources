@@ -76,7 +76,7 @@ This repository provides a **comprehensive list of resources** for integrating *
 ---
 
 ### **5. Reinforcement Learning for Optimization in CAE**
-- [David Silver's Reinforcement Learning Course (UCL)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/teaching/index.html)  
+- [David Silver's Reinforcement Learning Course (UCL)](https://www.davidsilver.uk/teaching/)  
 - [DeepMind X UCL Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/)
 - [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
