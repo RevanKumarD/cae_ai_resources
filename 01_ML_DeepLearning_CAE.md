@@ -12,7 +12,7 @@ Machine Learning enables computers to learn from data without explicit programmi
 ### Courses & Tutorials
 - **Online Courses:**
   - [Machine Learning - Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
-  - [Machine Learning for Engineering (Coursera, Georgia Tech)](https://www.coursera.org/learn/machine-learning-engineering)
+  - [Stanford CS229: Machine Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
   - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - **Additional Tutorials:**
   - [AI For Everyone - Andrew Ng (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
