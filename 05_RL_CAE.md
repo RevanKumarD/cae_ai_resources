@@ -9,7 +9,7 @@ This section provides a curated overview of Reinforcement Learning (RL) resource
 ### Courses & Tutorials
 
 - [Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)  A classic, in-depth RL course with materials.
-- [David Silver's Reinforcement Learning Course (UCL)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/teaching/index.html)  
+- [David Silver's Reinforcement Learning Course (UCL)](https://www.davidsilver.uk/teaching/)  A golden classic
 - [UC Berkeley Deep Reinforcement Learning Course (CS294)](http://rail.eecs.berkeley.edu/deeprlcourse/)  A more advanced, practical RL course.
 - [DeepMind X UCL Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/en/latest/)
