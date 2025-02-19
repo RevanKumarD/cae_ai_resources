@@ -38,7 +38,7 @@ This repository provides a **comprehensive list of resources** for integrating *
 
 ### **1. Machine Learning and Deep Learning Fundamentals for CAE**
 - [AI For Everyone - Andrew Ng (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
-- [Machine Learning - Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
+- [Stanford CS229: Machine Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [DeepLearning.AI Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
 - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
