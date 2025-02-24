@@ -28,15 +28,15 @@ This document provides a curated list of open-source datasets to enhance your sk
 
 5. **SimJEB**
    - **Description:** This dataset includes 381 jet engine bracket designs analyzed under multiple load cases, providing a foundation for finite element analysis (FEA) workflows.
-   - **Access Link:** [SimJEB Dataset](https://www.narnia.ai/dataset)
+   - **Access Link:** [SimJEB Dataset](https://simjeb.github.io/)
 
 6. **FRAMED**
    - **Description:** A collection of 4,500 bicycle frame designs, each with data on stress, deflection, and safety factors. This dataset is useful for studies in structural integrity and optimization.
-   - **Access Link:** [FRAMED Dataset](https://framed.com)
+   - **Access Link:** [FRAMED Dataset](https://decode.mit.edu/projects/framed/)
 
 7. **OSU-Honda CarHoods10k**
    - **Description:** Featuring over 10,000 car hood frame designs in STL format, this dataset includes performance metrics suitable for developing surrogate models and structural optimization studies.
-   - **Access Link:** [OSU-Honda CarHoods10k Dataset](https://osu-honda-carhoods10k.com)
+   - **Access Link:** [OSU-Honda CarHoods10k Dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2fqz612pt)
 
 ---
 
@@ -44,7 +44,7 @@ This document provides a curated list of open-source datasets to enhance your sk
 
 8. **Ship-D**
    - **Description:** A comprehensive dataset containing over 30,000 parametric ship hull designs, each accompanied by detailed performance metrics. It is tailored for hydrodynamic optimization tasks.
-   - **Access Link:** [Ship-D Dataset](https://ship-d.com)
+   - **Access Link:** [Ship-D Dataset](https://github.com/noahbagz/ShipD)
 
 ---
 
@@ -52,7 +52,11 @@ This document provides a curated list of open-source datasets to enhance your sk
 
 9. **DeepCAD**
    - **Description:** This extensive dataset comprises over 179,000 CAD models, each with detailed construction sequences. It is designed to train generative models for 3D design applications.
-   - **Access Link:** [DeepCAD Dataset](https://deepcad.com)
+   - **Access Link:** [DeepCAD Dataset](https://github.com/ChrisWu1997/DeepCAD)
+  
+10. **ABC Dataset**
+    - **Description:** A comprehensive collection of one million Computer-Aided Design (CAD) models, each consisting of explicitly parametrized curves and surfaces. This dataset provides ground truth for differential quantities, patch segmentation, geometric feature detection, and shape reconstruction, facilitating research in geometric deep learning methods and applications.
+    - **Access Link:** [ABC Dataset](https://archive.nyu.edu/handle/2451/43778)
 
 ---
 
