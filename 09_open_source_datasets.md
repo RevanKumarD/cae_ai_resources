@@ -82,11 +82,16 @@ This document provides a curated list of open-source datasets to enhance your sk
    - **Applications**: AI-based aerodynamic shape optimization, drag reduction studies.  
    - **Link**: [DrivAerNet++](https://github.com/Mohamedelrefaie/DrivAerNet)
 
+16. **Fluid Cube Dataset (0.1)**
+   - **Description**: Contains 100 unique fluid simulations within a unit cube using Smoothed Particle Hydrodynamics (SPH) to capture varied fluid behavior.
+   - **Applications**: Fluid dynamics research, ML-based fluid flow prediction, and dynamic metrics analysis. 
+   - **Link**: [Fluid Cube Dataset](https://inductiva.ai/blog/article/fluid-cube-dataset)
+
 ---
 
 ## Thermal Simulation  
 
-16. **Conduction Heat Transfer Dataset**  
+17. **Conduction Heat Transfer Dataset**  
    - **Description**: A dataset of thermal simulations focused on heat conduction, formatted as temperature field images for deep learning applications.  
    - **Applications**: AI-driven temperature prediction, physics-informed neural networks.  
    - **Link**: [Heat Transfer Dataset](https://data.mendeley.com/datasets/rw9yk3c559/1)
@@ -95,12 +100,12 @@ This document provides a curated list of open-source datasets to enhance your sk
 
 ## Electromagnetics Simulation  
 
-17. **Synthetic Ground-Penetrating Radar (GPR) Dataset**  
+18. **Synthetic Ground-Penetrating Radar (GPR) Dataset**  
    - **Description**: A dataset generated using the gprMax FDTD simulator, containing synthetic GPR B-scan signals for different subsurface scenarios.  
    - **Applications**: AI-based signal interpretation for buried object detection, geophysical studies.  
    - **Link**: [GPR Dataset](https://www.kaggle.com/competitions/gpr-data-processing)
 
-18. **Electromagnetic Interference (EMI) Signals Dataset**  
+19. **Electromagnetic Interference (EMI) Signals Dataset**  
    - **Description**: Contains labeled electromagnetic interference signal traces vs. normal signals, useful for EMI detection and mitigation studies.  
    - **Applications**: AI-based EMI detection, signal classification, real-time monitoring of electrical systems.  
    - **Link**: [EMI Signals Dataset](https://www.kaggle.com/datasets/ucimachinelearning/electromagnetic-interference-dataset)
@@ -109,7 +114,7 @@ This document provides a curated list of open-source datasets to enhance your sk
 
 ## Ship Design
 
-19. **Ship-D**
+20. **Ship-D**
    - **Description:** A comprehensive dataset containing over 30,000 parametric ship hull designs, each accompanied by detailed performance metrics. It is tailored for hydrodynamic optimization tasks.
    - **Access Link:** [Ship-D Dataset](https://github.com/noahbagz/ShipD)
 
@@ -117,11 +122,11 @@ This document provides a curated list of open-source datasets to enhance your sk
 
 ## CAD Model Generation
 
-20. **DeepCAD**
+21. **DeepCAD**
    - **Description:** This extensive dataset comprises over 179,000 CAD models, each with detailed construction sequences. It is designed to train generative models for 3D design applications.
    - **Access Link:** [DeepCAD Dataset](https://github.com/ChrisWu1997/DeepCAD)
   
-21. **ABC Dataset**
+22. **ABC Dataset**
     - **Description:** A comprehensive collection of one million Computer-Aided Design (CAD) models, each consisting of explicitly parametrized curves and surfaces. This dataset provides ground truth for differential quantities, patch segmentation, geometric feature detection, and shape reconstruction, facilitating research in geometric deep learning methods and applications.
     - **Access Link:** [ABC Dataset](https://archive.nyu.edu/handle/2451/43778)
 
